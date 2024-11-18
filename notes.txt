@@ -1,1 +1,1 @@
-This is first Git hub project
+This is first Git hub project - commited and pushed successfully
